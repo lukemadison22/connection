@@ -1,2 +1,1 @@
-# connection
-AI
+ STATUS: AWAITING_CONNECTION
